@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: rgb(97, 155, 155);
+font-weight: bolder;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #b7b7b7;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  background-color: #f1f1f1;
+}
+button {
+  background-color: #2f788d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+   width: 1490px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+button:hover {
+  background-color: #386f94;
+
+}
+
