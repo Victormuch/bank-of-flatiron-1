@@ -1,45 +1,41 @@
-
 ## DELPOYED ON NETLIFY ....
 
 - [Netlify](https://tkmuch.netlify.app/)
 
-
-
-
-# React + Vite
+# Bank-of-flatiron
 
 #### Date, 2024/04/28
 
 #### By _Victor Nyingi Muchiri_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+As a user, I should be able to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+See a table of the transactions.
+Fill out and submit the form to add a new transaction. This should display the new transaction to the table no persistence mechanism is needed for this.
+Filter transactions by typing into the search bar. Only transactions with a description matching the search term should be shown in the transactions table.
 
-## DELPOYED ON
+## Installation
 
-- [Netlify](https://tkmuch.netlify.app/)
+You use git clone to be able to download the documents in the GitHub
 
+## Installation Requirements
+
+Git
 
 # Live Link
+
 [Bank-of-flatiron](https://tkmuch.netlify.app/)
 
-
-
 ## Technologies used
+
 HTML
 CSS
 Github
 Javascript
 
-
 ### License
+
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
-
-
-
-
