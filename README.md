@@ -25,7 +25,7 @@ Currently, two official plugins are available:
 
 
 # Live Link
-[Bank-of-flatrion](https://tkmuch.netlify.app/)
+[Bank-of-flatiron](https://tkmuch.netlify.app/)
 
 
 
